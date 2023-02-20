@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Hello! This is my first file. 
+hello jdfjwewejfk
+>>>>>>> 1d4609f449b8e6b549a930737c9ea452d0606e8a
